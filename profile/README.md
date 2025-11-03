@@ -58,9 +58,8 @@ Du bist herzlich eingeladen, dich unserer Community anzuschließen:
 
 ## 📫 Kontakt
 
-* 🌐 **Discord:** [Hier beitreten](#) *(füge hier deinen Invite-Link ein)*
+* 🌐 **Discord:** [Hier beitreten](https://discord.gg/kEqdsF3UBM)
 * 💬 **GitHub:** Über Issues & Discussions
-* 📧 **E-Mail:** *(optional – falls ihr eine Kontaktadresse habt)*
 
 ---
 
