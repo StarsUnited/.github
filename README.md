@@ -58,9 +58,9 @@ Du bist herzlich eingeladen, dich unserer Community anzuschließen:
 
 ## 📫 Kontakt
 
-* 🌐 **Discord:** [Hier beitreten](#) *(füge hier deinen Invite-Link ein)*
+* 🌐 **Discord:** [Hier beitreten](https://discord.com/invite/kEqdsF3UBM)
 * 💬 **GitHub:** Über Issues & Discussions
-* 📧 **E-Mail:** *(optional – falls ihr eine Kontaktadresse habt)*
+* 🌐 **Discord:** [Website](https://starsunited.github.io/starsunited/)
 
 ---
 
