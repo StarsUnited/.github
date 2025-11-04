@@ -60,6 +60,7 @@ Du bist herzlich eingeladen, dich unserer Community anzuschließen:
 
 * 🌐 **Discord:** [Hier beitreten](https://discord.gg/kEqdsF3UBM)
 * 💬 **GitHub:** Über Issues & Discussions
+* 📔 **Website:** [Website](https://starsunited.github.io/starsunited/)
 
 ---
 
